@@ -1,4 +1,4 @@
-<h1>Hi, I'm Saul! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Student </a>/ <a href="https:https://www.linkedin.com/in/saul-quesada-ruiz-2648a6178//">Programmer</a></h1>
+<h1>Hi, I'm Saul! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Student </a>/ <a href="https:https://www.linkedin.com/in/saul-quesada-ruiz-2648a6178//
 
 <h2>👨‍💻 Development Projects:</h2>
 
