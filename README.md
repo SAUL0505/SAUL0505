@@ -1,21 +1,21 @@
-<h1>Hi, I'm Saul! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Student </a>/ <a href="https:https://www.linkedin.com/in/saul-quesada-ruiz-2648a6178//
+# Hi, I'm Saul! 👨‍💻
+[Computer Engineering Student](https://github.com/joshmadakor1) / [LinkedIn](https://www.linkedin.com/in/saul-quesada-ruiz-2064a1234/)
 
-<h2>👨‍💻 Development Projects:</h2>
+## 🛠 Development Projects:
 
-- <b>C++ programs</b>
-  
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data structures (Java)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+**C++ programs**
+- [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
+**Data structures (Java)**
+- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) *(Potentially NSFW)*
+
+**Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
+- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+**C# (.NET Desktop Applications)**
+- [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
