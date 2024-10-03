@@ -3,8 +3,7 @@
 
 ## 🛠 Development Projects:
 
-**C++ programs**
-https://github.com/SAUL0505/BankAccounts/tree/main/BankAccounts
+
 
 **C++ programs ** 
 [BankAccounts Project](https://github.com/SAUL0505/BankAccounts/tree/main/BankAccounts)
