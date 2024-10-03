@@ -4,7 +4,7 @@
 ## 🛠 Development Projects:
 
 **C++ programs**
-- [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 **Data structures (Java)**
 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) *(Potentially NSFW)*
