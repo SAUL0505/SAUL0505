@@ -28,6 +28,3 @@ This project is a bank account management application developed in C++. The goal
 
 
 
-**Data structures (Java)**
-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) *(Potentially NSFW)*
-
